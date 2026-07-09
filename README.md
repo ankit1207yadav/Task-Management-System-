@@ -17,7 +17,6 @@ Designed with a focus on code readability, separation of concerns, and clean vis
 8. [API Endpoints](#-api-endpoints)
 9. [Screenshots](#-screenshots)
 10. [Future Improvements](#-future-improvements)
-11. [License](#-license)
 
 ---
 
@@ -194,6 +193,3 @@ If you wish to extend the scope of this project, consider adding:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
