@@ -16,3 +16,5 @@ env/
 
 # Local/temporary files
 friend-repo/
+*.db
+local_database.db
